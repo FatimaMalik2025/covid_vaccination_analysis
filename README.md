@@ -1,5 +1,3 @@
-# Covid-19 Vaccination Campaign Analysis
-
 # COVID-19 Vaccination Campaign Analysis
 
 ## Overview
